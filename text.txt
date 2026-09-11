@@ -1,1 +1,4 @@
-Nuevo trabajo para mañana
+hola git status
+
+nuevo trabajo de kevin
+lo he modificado
